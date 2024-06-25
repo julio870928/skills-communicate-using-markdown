@@ -20,3 +20,8 @@ Initialized empty Git repository in /Users
 var myVar = "Hello World";
 
 ```
+
+
+- [x] list item 1
+- [x] list item 2
+- [ ] list item 3
